@@ -11,7 +11,7 @@
   
   💻 Trying to be cool by learning ethical hacking.
   
- 🍿 A big time movie and series buff. ( Check out my page - [**just_another_cinema_buff**](https://www.instagram.com/just_another_cinema_buff/) )
+ 🍿 A big time movie and series buff. I promise I don't binge watch and do my work on time. ( Check out my page - [**just_another_cinema_buff**](https://www.instagram.com/just_another_cinema_buff/) )
  
 🎧 Part of a podcast called **[The FourSeaMen](https://www.instagram.com/thefourseamen/)**.
 
