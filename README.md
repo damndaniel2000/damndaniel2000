@@ -4,6 +4,8 @@
 
 ![alt text](https://img.shields.io/badge/Editor-Atom-orange "shields") ![alt text](https://img.shields.io/badge/Editor-Notepad++-orange "shields") ![alt text](https://img.shields.io/badge/Editor-Pycharm-orange "shields")
 
+![alt text](https://img.shields.io/badge/Tools-Github-yellow "shields") ![alt text](https://img.shields.io/badge/Tools-Heroku-yellow "shields") ![alt text](https://img.shields.io/badge/Tools-Figma-yellow "shields") ![alt text](https://img.shields.io/badge/Tools-Linux_Server-yellow "shields")
+
  About Me 
 -
 
