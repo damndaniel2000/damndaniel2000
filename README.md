@@ -15,7 +15,7 @@
   
  🍿 A big time movie and series buff. I promise I don't binge watch and do my work on time. ( Check out my page - [**just_another_cinema_buff**](https://www.instagram.com/just_another_cinema_buff/) )
  
-🎧 Part of a podcast called **[The FourSeaMen](https://www.instagram.com/thefourseamen/)**.
+🎧 Part of a podcast called **[The SeaMen](https://www.instagram.com/thefourseamen/)**.
 
  🎹 I try to channel my inner Mozart ( a disappointed one ) by sometimes playing the piano.
 
