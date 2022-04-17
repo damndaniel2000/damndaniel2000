@@ -23,5 +23,5 @@
  Reach Me
 -
 
-[<img src="https://image.flaticon.com/icons/png/512/732/732200.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Send An Email"/>](mailto:dsouzaian2020@gmail.com) &nbsp; [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="35em" align="center" alt="Find Ian on LinkedIn" title="Follow Raymo111 on Twitter"/>](https://www.linkedin.com/in/ian-dsouza/)
+[<img src="https://image.flaticon.com/icons/png/512/732/732200.png" height="40em" align="center" alt="Send An Email" title="Send An Email"/>](mailto:dsouzaian2020@gmail.com) &nbsp; [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="35em" align="center" alt="Find Ian on LinkedIn" title="Follow Ian on LinkedIN"/>](https://www.linkedin.com/in/ian-dsouza/)
 
